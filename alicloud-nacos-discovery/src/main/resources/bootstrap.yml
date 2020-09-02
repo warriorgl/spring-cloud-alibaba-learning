@@ -1,0 +1,34 @@
+server:
+  port: 18081
+spring:
+  application:
+    name: service-provider
+  profiles:
+    ##根据active找配置中带响应后缀的配置:xxx-dev.properties
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      username: nacos
+      password: nacos
+      ## 不配置时默认使用discovery.server-addr 地址
+      ##config:
+       ##server-addr: localhost:8848
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+  endpoint:
+    health:
+      show-details: always
+
+## spring.cloud.nacos.discovery.namespace  默认空间 多环境配置时使用
+## spring.cloud.nacos.discovery.cluster-name = DEFAULT Nacos集群名称
+## ribbon.nacos.enabled = true     Ribbon 开关
+## spring.cloud.nacos.discovery.endpoint  地域的某个服务的入口域名，通过此域名可以动态地拿到服务端地址
+## spring.cloud.nacos.discovery.weight =1  权重范围1-100 值越大权重越大，被调用的优先级会提高
+## spring.cloud.nacos.discovery.network-interface  网卡地址
+## spring.cloud.nacos.discovery.ip  注册中心IP 优先
+## spring.cloud.nacos.discovery.port=-1 默认检测 不需配置
