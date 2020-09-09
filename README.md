@@ -13,6 +13,8 @@
     3.配置中心动态获取配置
     4.gateway路由
     5.sentinel监控、熔断
+    6.oauth2服务端和客户端
+    7.基于header中token的用户认证机制（alicloud-nacos-discovery）
 ##### Nasoc地址：https://nacos.io/zh-cn/index.html
     当前使用版本：nacos-server-1.3.2.zip
     配置文件：nacos.properties替换zip包中application文件。数据库请提前创建好。
