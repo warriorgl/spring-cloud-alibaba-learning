@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "alicloud",
+      "type": "com.com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty",
+      "sourceType": "com.com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alicloud.env",
+      "type": "java.lang.String",
+      "sourceType": "com.com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty"
+    }
+  ],
+  "hints": []
+}

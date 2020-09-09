@@ -1,0 +1,49 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: alicloud-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods:
+              - POST
+              - GET
+              - PUT
+              - DELETE
+              - OPTIONS
+              - HEAD
+
+
+      #����·�ɹ��� ÿ��id��һ��·�ɲ��ԣ�predicates�п����ö��ֲ���:Before��Between��Cookie��Header��
+      ##Host��Method��Path��Query��ReadBodyPredicateFactory��RemoteAddr��Weight��CloudFoundryRouteService
+      ## ����ʱҲ�ɲ��üӷ�������ͨ��·��ǰ׺ƥ�� ���磺http://localhost:9000/provider/config
+      ## http://localhost:9000/service-provider/provider/test
+      routes:
+        ##�Զ���id
+        - id: service-consumer
+          ##���ؾ���   ��ֱ��������ַ��http://xxxxx
+          uri: lb://service-consumer
+          predicates:
+            - Path=/consumer/**
+        - id: service-provider
+          uri: lb://service-provider
+          predicates:
+            - Path=/provider/**
+logging:
+  level:
+    org.springframework.cloud.gateway: TRACE
+    org.springframework.http.server.reactive: DEBUG
+    org.springframework.web.reactive: DEBUG
+    reactor.ipc.netty: DEBUG
+    reactor.netty: DEBUG

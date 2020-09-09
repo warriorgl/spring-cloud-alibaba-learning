@@ -1,0 +1,37 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: auth-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      username: nacos
+      password: nacos
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url:  jdbc:mysql://localhost:3306/alicloud?verifyServerCertificate=false&useSSL=false&requireSSL=false&useUnicode=true&rewriteBatchedStatements=true&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    max-active: 20
+    max-wait: 60000
+    initial-size: 5
+    min-idle: 1
+    pool-prepared-statements: true
+    max-open-prepared-statements: 20
+    time-between-eviction-runs-millis: 60000
+    min-evictable-idle-time-millis: 300000
+    validation-query: SELECT 1
+    test-while-idle: true
+    test-on-borrow: false
+    test-on-return: false
+    filters: stat,wall,log4j
+    useGlobalDataSourceStat: true
+logging:
+  config: classpath:logback-spring.xml
+mybatis-plus:
+  configuration:
+    call-setters-on-nulls: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

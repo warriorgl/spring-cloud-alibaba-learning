@@ -1,0 +1,2547 @@
+{
+  "groups": [
+    {
+      "name": "alicloud",
+      "type": "com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty",
+      "sourceType": "com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alicloud.env",
+      "type": "java.lang.String",
+      "sourceType": "com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.block-when-exhausted",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy",
+      "type": "org.apache.commons.pool2.impl.EvictionPolicy<java.lang.Object>",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.eviction-policy-class-name",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.evictor-shutdown-timeout-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.fairness",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-base",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.jmx-name-prefix",
+      "type": "java.lang.String",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.lifo",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-total",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.max-wait-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.num-tests-per-eviction-run",
+      "type": "java.lang.Integer",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.soft-min-evictable-idle-time-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-create",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.lettuce.pool.time-between-eviction-runs-millis",
+      "type": "java.lang.Long",
+      "sourceType": "org.apache.commons.pool2.impl.GenericObjectPoolConfig"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.database",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.host-name",
+      "type": "java.lang.String",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.password",
+      "type": "org.springframework.data.redis.connection.RedisPassword",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    },
+    {
+      "name": "spring.redis2.port",
+      "type": "java.lang.Integer",
+      "sourceType": "org.springframework.data.redis.connection.RedisStandaloneConfiguration"
+    }
+  ],
+  "hints": []
+}

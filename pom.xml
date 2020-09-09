@@ -18,6 +18,9 @@
         <module>alicloud-nacos-discovery-consumer</module>
         <module>alicloud-api</module>
         <module>alicloud-gateway</module>
+        <module>alicloud-oauth-service</module>
+        <module>alicloud-oauth-client</module>
+        <module>alicloud-common</module>
     </modules>
 
     <properties>
@@ -27,6 +30,7 @@
         <spring-cloud-openfeign.version>2.2.2.RELEASE</spring-cloud-openfeign.version>
         <spring-cloud-netflix.version>2.2.2.RELEASE</spring-cloud-netflix.version>
         <spring-cloud-gateway.version>2.2.2.RELEASE</spring-cloud-gateway.version>
+        <spring-cloud-oauth2>2.2.2.RELEASE</spring-cloud-oauth2>
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -57,6 +61,11 @@
                 <version>${spring-cloud-gateway.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-oauth2</artifactId>
+                <version>${spring-cloud-oauth2}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
