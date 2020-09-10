@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <groupId>com.chinafocus</groupId>
-    <artifactId>alicloud-oauth-service</artifactId>
+    <artifactId>alicloud-oauth-server</artifactId>
 
 
     <dependencies>

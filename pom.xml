@@ -18,7 +18,7 @@
         <module>alicloud-nacos-discovery-consumer</module>
         <module>alicloud-api</module>
         <module>alicloud-gateway</module>
-        <module>alicloud-oauth-service</module>
+        <module>alicloud-oauth-server</module>
         <module>alicloud-oauth-client</module>
         <module>alicloud-common</module>
     </modules>
