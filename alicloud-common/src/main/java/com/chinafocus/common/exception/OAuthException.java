@@ -1,21 +1,13 @@
 package com.chinafocus.common.exception;
 
+
 import com.chinafocus.common.enums.ErrorCode;
 
-public class ServiceException extends RuntimeException {
+public class OAuthException extends RuntimeException {
 
     private ErrorCode errorCode;
 
-
-    public ServiceException(ErrorCode error) {
-        super(error.message);
-        this.errorCode = error;
-    }
-
-
-
-    public ServiceException(String message, ErrorCode errorCode) {
-        super(message);
+    public OAuthException(ErrorCode errorCode) {
         this.errorCode = errorCode;
     }
 

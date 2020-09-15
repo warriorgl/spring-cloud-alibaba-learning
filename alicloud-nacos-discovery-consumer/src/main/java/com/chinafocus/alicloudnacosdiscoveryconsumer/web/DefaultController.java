@@ -3,7 +3,7 @@ package com.chinafocus.alicloudnacosdiscoveryconsumer.web;
 
 import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alicloud.api.dto.TestObject;
-import com.alicloud.api.service.FeignService;
+import com.chinafocus.alicloudnacosdiscoveryconsumer.feign.FeignService;
 import com.chinafocus.common.ResultBody;
 import com.chinafocus.common.web.BaseController;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -38,9 +38,9 @@ public class DefaultController extends BaseController {
     }
 
     @GetMapping("/feign")
-    public ResultBody feignTest(HttpServletRequest request){
-        TestObject testObject=feignService.getTestObject();
-        return success(testObject);
+    public ResultBody feignTest(){
+        TestObject obj = feignService.getTestObject();
+        return success(obj);
     }
 
 

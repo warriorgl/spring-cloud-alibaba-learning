@@ -7,6 +7,8 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
+        group: dev
+        namespace: 84101a18-3105-4a54-a1c2-fb4af48ed848
     gateway:
       discovery:
         locator:
@@ -23,16 +25,14 @@ spring:
               - DELETE
               - OPTIONS
               - HEAD
-
-
-      #ÅäÖÃÂ·ÓÉ¹æÔò Ã¿¸öidÊÇÒ»¸öÂ·ÓÉ²ßÂÔ£¬predicatesÖĞ¿ÉÉèÖÃ¶àÖÖ²ßÂÔ:Before¡¢Between¡¢Cookie¡¢Header¡¢
-      ##Host¡¢Method¡¢Path¡¢Query¡¢ReadBodyPredicateFactory¡¢RemoteAddr¡¢Weight¡¢CloudFoundryRouteService
-      ## ·ÃÎÊÊ±Ò²¿É²»ÓÃ¼Ó·şÎñÃû£¬Í¨¹ıÂ·¾¶Ç°×ºÆ¥Åä ÀıÈç£ºhttp://localhost:9000/provider/config
+      #é…ç½®è·¯ç”±è§„åˆ™ æ¯ä¸ªidæ˜¯ä¸€ä¸ªè·¯ç”±ç­–ç•¥ï¼Œpredicatesä¸­å¯è®¾ç½®å¤šç§ç­–ç•¥:Beforeã€Betweenã€Cookieã€Headerã€
+      ##Hostã€Methodã€Pathã€Queryã€ReadBodyPredicateFactoryã€RemoteAddrã€Weightã€CloudFoundryRouteService
+      ## è®¿é—®æ—¶ä¹Ÿå¯ä¸ç”¨åŠ æœåŠ¡åï¼Œé€šè¿‡è·¯å¾„å‰ç¼€åŒ¹é… ä¾‹å¦‚ï¼šhttp://localhost:9000/provider/config
       ## http://localhost:9000/service-provider/provider/test
       routes:
-        ##×Ô¶¨Òåid
+        ##è‡ªå®šä¹‰id
         - id: service-consumer
-          ##¸ºÔØ¾ùºâ   ºÍÖ±½ÓÉèÖÃÍøÖ·£ºhttp://xxxxx
+          ##è´Ÿè½½å‡è¡¡   å’Œç›´æ¥è®¾ç½®ç½‘å€ï¼šhttp://xxxxx
           uri: lb://service-consumer
           predicates:
             - Path=/consumer/**

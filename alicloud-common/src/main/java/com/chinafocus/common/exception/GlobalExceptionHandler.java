@@ -10,11 +10,10 @@ import org.springframework.web.HttpRequestMethodNotSupportedException;
 import org.springframework.web.bind.MissingServletRequestParameterException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
-import javax.security.auth.message.AuthException;
-import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.validation.ConstraintViolation;
 import javax.validation.ConstraintViolationException;
+import javax.websocket.DecodeException;
 import java.util.List;
 import java.util.Set;
 
@@ -27,16 +26,19 @@ public class GlobalExceptionHandler {
 
     private Logger logger = LoggerFactory.getLogger(GlobalExceptionHandler.class);
 
+
+
     @ExceptionHandler(value = ServiceException.class)
-    public ResultBody handleServiceException(HttpServletRequest request, ServiceException se) {
+    public ResultBody handleServiceException(ServiceException se) {
         logger.error("ServiceException:{}", se.getMessage());
         return new ResultBody(se.getErrorCode().code, se.getMessage());
     }
 
-    @ExceptionHandler(value = AuthException.class)
-    public ResultBody handleAuthException(HttpServletRequest request, ServiceException se) {
-        logger.error("AuthException:{}", se.getMessage());
-        return new ResultBody(se.getErrorCode().code, se.getMessage());
+
+    @ExceptionHandler(value = DecodeException.class)
+    public ResultBody handleAuthException(HttpServletResponse response,DecodeException se) {
+        logger.error("DecodeException:{}", se.getMessage());
+        return new ResultBody(response.getStatus(),se.getMessage());
     }
 
     @ExceptionHandler(value = Exception.class)

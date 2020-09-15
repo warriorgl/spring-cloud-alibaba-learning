@@ -1,7 +1,7 @@
 package com.chinafocus.alicloudoauthservice.exception;
 
 import com.chinafocus.common.enums.ErrorCode;
-import com.chinafocus.common.exception.AuthExpception;
+import com.chinafocus.common.exception.OAuthException;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;
 import org.springframework.stereotype.Component;
@@ -18,7 +18,7 @@ public class CustomAuthenticationEntryPoint implements AuthenticationEntryPoint 
 
         Throwable cause = e.getCause();
         if (cause != null){
-            throw new AuthExpception(ErrorCode.REQUEST_TOKEN_FAILED);
+            throw new OAuthException(ErrorCode.REQUEST_TOKEN_FAILED);
         }
     }
 }

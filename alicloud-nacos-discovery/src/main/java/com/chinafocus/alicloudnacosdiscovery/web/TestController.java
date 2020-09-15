@@ -4,6 +4,8 @@ package com.chinafocus.alicloudnacosdiscovery.web;
 import com.alicloud.api.dto.TestObject;
 import com.chinafocus.alicloudnacosdiscovery.property.ConfigProperty;
 import com.chinafocus.common.ResultBody;
+import com.chinafocus.common.enums.ErrorCode;
+import com.chinafocus.common.exception.ServiceException;
 import com.chinafocus.common.web.BaseController;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -30,7 +32,8 @@ public class TestController extends BaseController {
 
     @GetMapping("/provider/test")
     public TestObject provider(HttpServletRequest request){
-        System.out.println(request.getHeader("token"));
+        //throw new ServiceException("业务异常",ErrorCode.SERVICE_ERROR);
+
         return new TestObject().setDesc("1").setId(1l).setName("hello boy!");
     }
 

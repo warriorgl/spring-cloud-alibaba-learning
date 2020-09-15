@@ -11,7 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.client.RestTemplate;
 
 @EnableDiscoveryClient
-@EnableFeignClients(basePackages = "com.alicloud.api")
+@EnableFeignClients(basePackages = {"com.alicloud.api","com.chinafocus.alicloudnacosdiscoveryconsumer.feign"})
 @ComponentScan(basePackages = {"com.chinafocus.alicloudnacosdiscoveryconsumer","com.chinafocus.common"})
 @SpringBootApplication
 public class AlicloudNacosDiscoveryConsumerApplication {

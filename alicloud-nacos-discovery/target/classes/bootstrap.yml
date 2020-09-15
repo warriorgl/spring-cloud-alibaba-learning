@@ -10,6 +10,8 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
+        group: dev
+        namespace: 84101a18-3105-4a54-a1c2-fb4af48ed848
       username: nacos
       password: nacos
       ## 不配置时默认使用discovery.server-addr 地址

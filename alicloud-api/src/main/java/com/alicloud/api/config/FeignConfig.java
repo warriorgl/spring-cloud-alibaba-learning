@@ -4,9 +4,13 @@ import feign.Logger;
 import feign.Request;
 import feign.RequestInterceptor;
 import feign.Retryer;
+import feign.codec.Decoder;
+import org.springframework.beans.factory.ObjectFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.http.HttpMessageConverters;
+import org.springframework.cloud.openfeign.support.SpringDecoder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
-
 import java.util.concurrent.TimeUnit;
 
 
@@ -15,6 +19,9 @@ import java.util.concurrent.TimeUnit;
  */
 @Component
 public class FeignConfig {
+
+    @Autowired
+    private ObjectFactory<HttpMessageConverters> messageConverters;
 
     @Bean
     public RequestInterceptor requestInterceptor(){
@@ -35,6 +42,13 @@ public class FeignConfig {
     @Bean
     public Request.Options options(){
         return new Request.Options(60l, TimeUnit.SECONDS,60l,TimeUnit.SECONDS,true);
+    }
+
+
+
+    @Bean
+    public Decoder feignDecoder(){
+        return new AwardResponseEntityDecoder(new SpringDecoder(this.messageConverters));
     }
 
 

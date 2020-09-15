@@ -1,7 +1,7 @@
 package com.chinafocus.alicloudoauthservice.exception;
 
 import com.chinafocus.common.enums.ErrorCode;
-import com.chinafocus.common.exception.AuthExpception;
+import com.chinafocus.common.exception.OAuthException;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.web.access.AccessDeniedHandler;
 import org.springframework.stereotype.Component;
@@ -20,7 +20,7 @@ public class CustomAccessDeniedHandler implements AccessDeniedHandler {
     public void handle(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, AccessDeniedException e) throws IOException, ServletException {
         Throwable cause = e.getCause();
         if (cause != null){
-            throw new AuthExpception(ErrorCode.REQUEST_ACCESS_DENIED);
+            throw new OAuthException(ErrorCode.REQUEST_ACCESS_DENIED);
         }
     }
 }

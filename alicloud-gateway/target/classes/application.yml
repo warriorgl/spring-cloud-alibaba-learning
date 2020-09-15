@@ -7,6 +7,8 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848
+        group: dev
+        namespace: 84101a18-3105-4a54-a1c2-fb4af48ed848
     gateway:
       discovery:
         locator:
@@ -23,16 +25,14 @@ spring:
               - DELETE
               - OPTIONS
               - HEAD
-
-
-      #����·�ɹ��� ÿ��id��һ��·�ɲ��ԣ�predicates�п����ö��ֲ���:Before��Between��Cookie��Header��
-      ##Host��Method��Path��Query��ReadBodyPredicateFactory��RemoteAddr��Weight��CloudFoundryRouteService
-      ## ����ʱҲ�ɲ��üӷ�������ͨ��·��ǰ׺ƥ�� ���磺http://localhost:9000/provider/config
+      #配置路由规则 每个id是一个路由策略，predicates中可设置多种策略:Before、Between、Cookie、Header、
+      ##Host、Method、Path、Query、ReadBodyPredicateFactory、RemoteAddr、Weight、CloudFoundryRouteService
+      ## 访问时也可不用加服务名，通过路径前缀匹配 例如：http://localhost:9000/provider/config
       ## http://localhost:9000/service-provider/provider/test
       routes:
-        ##�Զ���id
+        ##自定义id
         - id: service-consumer
-          ##���ؾ���   ��ֱ��������ַ��http://xxxxx
+          ##负载均衡   和直接设置网址：http://xxxxx
           uri: lb://service-consumer
           predicates:
             - Path=/consumer/**
