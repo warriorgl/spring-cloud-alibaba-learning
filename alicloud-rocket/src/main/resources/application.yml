@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: alicloud-rocket
+  cloud:
+    stream:
+      rocketmq:
+        binder:
+          name-server:
+            -192.168.40.129:9876
+      bindings:
+        output1: {destination: test-topic1}
+        output2: {destination: test-topic2}
+server:
+  port: 18083
