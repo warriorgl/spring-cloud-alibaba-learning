@@ -1,4 +1,4 @@
-# spring-cloud-alibaba-dev-model
+# spring-cloud-alibaba--learning
 -- QQ交流群：199016700--
 ### 简介
 该项目为个人学习项目，了解spring cloud alibaba框架和各个组件的使用，加入其它组件构建一个可直接开发脚手架模型。各子项目详细介绍会写到对应readme.md中
