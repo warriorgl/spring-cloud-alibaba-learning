@@ -17,6 +17,7 @@
     7.基于header中token的用户认证机制（alicloud-nacos-discovery）
     8.redis多数据源配置（alicloud-nacos-discovery）
     9.feign异常处理（alicloud-nacos-discovery-consumer）
+    10.spring cloud stream rocketMQ
 ##### Nasoc地址：https://nacos.io/zh-cn/index.html
     当前使用版本：nacos-server-1.3.2.zip
     配置文件：nacos.properties替换zip包中application文件。数据库请提前创建好。
